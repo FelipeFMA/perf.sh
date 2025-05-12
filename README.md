@@ -1,10 +1,10 @@
-# perf.sh - Power Saver Script for Thinkpad T480
+# perf.sh - Power Saver Script for ThinkPad T480
 
-This script is a power-saver designed for the Thinkpad T480. It allows you to set the system performance profile and GPU frequency on Linux.
+This script is a minimal, POSIX-compliant profile manager designed specifically for the ThinkPad T480. It allows you to configure the system performance profile and GPU frequency on any Linux distribution.
 
 ## Dependencies
 
-This script requires `power-profiles-daemon` to be installed.
+- dash (can be replaced with any POSIX-compliant shell)
 
 ## Usage
 
